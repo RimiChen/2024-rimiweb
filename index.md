@@ -12,9 +12,9 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ## Biology
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> I am a Ph.D. candidate at North Carolina State University, Computer Science. My research interests are Visual Narrative Comprehension and Generation. I am also an amateur comic artist who sometimes draws fan art.
+
+
 
 ## Visual Narrative Comprehension and Generation
 
