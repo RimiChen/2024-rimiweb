@@ -18,6 +18,7 @@ To see my publication record please check out my [Google Scholar profile](https:
 
 # Tools and Projects
 <ol>
+<li>Visual novel (adventure games) authoring tool</li>
 <li>Novel visualization</li>
 <li>Alter story content</li>
 <li>Narrative comprehension</li>
@@ -25,6 +26,7 @@ To see my publication record please check out my [Google Scholar profile](https:
 <li>Genre analysis through transitions in visual narrative</li>
 <li>Comic style transfer</li>
 <li>Comic generation</li>
+<li>Intelligent comic generation interface</li>
 </ol>
 
 
