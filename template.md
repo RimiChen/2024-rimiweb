@@ -5,7 +5,6 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
-[Link to template page](./template.html).
 
 There should be whitespace between paragraphs.
 
@@ -95,11 +94,11 @@ end
 
 ### Small image
 
-![Rimi](https://rimichen.github.io/RimiWeb/assets/selfrimi.JPG)
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ### Large image
 
-![Branching](https://rimichen.github.io/RimiWeb/assets/self.JPG)
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
 ### Definition lists can be used with HTML syntax.
