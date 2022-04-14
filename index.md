@@ -32,4 +32,4 @@ To see my publication record please check out my [Google Scholar profile](https:
 
 # Resume
 > - [version 1 (Aug 23, 2019)](https://rimichen.github.io/RimiWeb/files/2019_resume_new.pdf) -- first version.
-> - [version 2 (Apr 14, 2022)](https://rimichen.github.io/RimiWeb/files/2022_resume_new.pdf) -- second draft in 2022.
+> - [version 2 (Apr 14, 2022)](https://rimichen.github.io/RimiWeb/files/2022_resume_new_2.pdf) -- second draft in 2022.
