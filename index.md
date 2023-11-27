@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I completed my Doctorate in Computer Science at North Carolina State University in August 2023 under the guidance of Prof. [Arnav Jhala](https://www.csc.ncsu.edu/people/ahjhala).
+I completed my Ph.D. in Computer Science at North Carolina State University in August 2023 under the guidance of Prof. [Arnav Jhala](https://www.csc.ncsu.edu/people/ahjhala).
 My focus lies in Visual Narrative Comprehension and Generation, delving into the merging realms of computer vision, natural language processing, machine learning, multimedia, and generative AI.
 
 I am currently seeking job opportunities aligned with my research pursuits.
