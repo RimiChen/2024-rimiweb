@@ -41,10 +41,10 @@ I am currently seeking job opportunities aligned with my research pursuits.
 [Project] ,[Paper](https://escholarship.org/uc/item/0cn1n4k7) ,[Code]
 
 ### Document Analysis (Narrative of Image Sequences) 
-[Project] ,[Paper] ,[Code]
+[Project] ,[Paper](http://arxiv.org/abs/2312.08720) ,[Code]
 
 ### Neural Style Transfer
-[Project] ,[Paper] ,[Code]
+[Project] ,[Paper](http://arxiv.org/abs/2312.08695) ,[Code]
 
 ### Image Sequence Genertion
 [Project] ,[Paper] ,[Code](https://github.com/RimiChen/Comic-creation)

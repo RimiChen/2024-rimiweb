@@ -35,31 +35,31 @@ I am currently seeking job opportunities aligned with my research pursuits.
 # Tools and Projects
 ---
 ### Visual Narrative Knowledge Framework
-[Project],[Paper]<https://www.proquest.com/openview/c1be29fbfe5243f948955265f99a0276/1?pq-origsite=gscholar&cbl=18750&diss=y>,[Code]
+[Project] ,[Paper](https://www.proquest.com/openview/c1be29fbfe5243f948955265f99a0276/1?pq-origsite=gscholar&cbl=18750&diss=y) ,[Code]
 
 ### Multimodal Understanding
-[Project],[Paper]<https://escholarship.org/uc/item/0cn1n4k7>,[Code]
+[Project] ,[Paper](https://escholarship.org/uc/item/0cn1n4k7) ,[Code]
 
 ### Document Analysis (Narrative of Image Sequences) 
-[Project],[Paper],[Code]
+[Project] ,[Paper] ,[Code]
 
 ### Neural Style Transfer
-[Project],[Paper],[Code]
+[Project] ,[Paper] ,[Code]
 
 ### Image Sequence Genertion
-[Project],[Paper],[Code]<https://github.com/RimiChen/Comic-creation>
+[Project] ,[Paper] ,[Code](https://github.com/RimiChen/Comic-creation)
 
 ### Street Image Processing
-[Project],[Paper]<https://link.springer.com/article/10.1007/s00146-022-01592-y>,[Code]<https://github.com/RimiChen/StreetScore>
+[Project] ,[Paper](https://link.springer.com/article/10.1007/s00146-022-01592-y) ,[Code](https://github.com/RimiChen/StreetScore)
 
 ### Story Text Reasoning
-[Project],[Paper]<https://ceur-ws.org/Vol-2321/paper5.pdf>,[Code]<https://github.com/RimiChen/QAnarrative>
+[Project] ,[Paper](https://ceur-ws.org/Vol-2321/paper5.pdf) ,[Code](https://github.com/RimiChen/QAnarrative)
 
 ### Story Content Authoring
-[Project],[Paper],[Code]<https://github.com/RimiChen/REWRITE>
+[Project] ,[Paper] ,[Code](https://github.com/RimiChen/REWRITE)
 
 ### Text Visualization
-[Project],[Paper],[Code]<https://github.com/RimiChen/Story-Assistant>
+[Project] ,[Paper] ,[Code](https://github.com/RimiChen/Story-Assistant)
 
 ### Visual Novel Authoring Tool
-[Project],[Paper],[Code]<https://github.com/RimiChen/2016_V_SET>
+[Project] ,[Paper] ,[Code](https://github.com/RimiChen/2016_V_SET)
