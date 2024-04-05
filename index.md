@@ -3,7 +3,7 @@ layout: default
 ---
 
 I completed my Ph.D. in Computer Science at North Carolina State University in August 2023 under the guidance of Prof. [Arnav Jhala](https://www.csc.ncsu.edu/people/ahjhala).
-My focus lies in Visual Narrative Comprehension and Generation, delving into the merging realms of computer vision, natural language processing, machine learning, multimedia, and generative AI.
+My focus lies in Visual Narrative Comprehension and Generation, delving into the merging realms of Multimedia, Multimodal Understanding (Visual & Language), Machine Learning, and Generative AI.
 
 I am currently seeking job opportunities aligned with my research pursuits.
 
@@ -12,11 +12,10 @@ I am currently seeking job opportunities aligned with my research pursuits.
 # Research Area
 ---
 
-- Visual Narrative Comprehension & Generation
-- Natural Language Processing
-- Multimodal Understanding
-- Computer Vision
+- Multimodal Understanding (Vision & Language)
+- Interactive Narrative
 - Generative AI
+- Multimedia
 
 
 # Publications
@@ -38,6 +37,15 @@ I am currently seeking job opportunities aligned with my research pursuits.
 
 
 > [Google Scholar profile](https://scholar.google.com/citations?user=al9zG3YAAAAJ&hl=en).
+
+
+# Professional Service
+---
+- Reviewer:
+	CogSci2024.
+
+- Volunteer:
+	AAMAS2011.
 
 # Tools and Projects
 ---
