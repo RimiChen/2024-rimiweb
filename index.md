@@ -7,7 +7,7 @@ My focus lies in Visual Narrative Comprehension and Generation, delving into the
 
 I am currently seeking job opportunities aligned with my research pursuits.
 
-> [Resume](https://rimichen.github.io/RimiWeb/files/2023_resume_Rimi.pdf) -- latest version in 2024.
+> [Resume](https://rimichen.github.io/RimiWeb/files/2023_resume_Rimi__Work.pdf) -- latest version in 2024.
 
 # Research Area
 ---
